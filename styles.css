@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, Tahoma, sans-serif;
+}
+
+.card {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #0096c7;
+    margin: 0 auto;
+    padding: 20px;
+    width: 700px;
+    text-align: center;
+
+    color: #03045e;
+}
+ 
+.yang-img {
+    width: 200px;
+    height: 150px;
+}
+
+
+.border-blue {
+    border-bottom: 10px solid #0077b6;
+}
